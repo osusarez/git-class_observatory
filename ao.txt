@@ -1,4 +1,3 @@
 - derotator
-- SHWFS
+PEut �tre un jour j'apprendrai � utiliser Git
 - PyWFS
-- RTC
