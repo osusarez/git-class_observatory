@@ -1,3 +1,2 @@
-- derotator
-PEut ï¿½tre un jour j'apprendrai ï¿½ utiliser Git
-- PyWFS
+
+PEut être un jour j'apprendrai à utiliser Git
